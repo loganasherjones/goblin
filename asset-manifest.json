@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goblin/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/goblin/static/js/main.86b2bc4f.chunk.js",
+    "main.js.map": "/goblin/static/js/main.86b2bc4f.chunk.js.map",
+    "runtime-main.js": "/goblin/static/js/runtime-main.c7ef2401.js",
+    "runtime-main.js.map": "/goblin/static/js/runtime-main.c7ef2401.js.map",
+    "static/js/2.806cac0a.chunk.js": "/goblin/static/js/2.806cac0a.chunk.js",
+    "static/js/2.806cac0a.chunk.js.map": "/goblin/static/js/2.806cac0a.chunk.js.map",
+    "static/js/3.104527a6.chunk.js": "/goblin/static/js/3.104527a6.chunk.js",
+    "static/js/3.104527a6.chunk.js.map": "/goblin/static/js/3.104527a6.chunk.js.map",
+    "index.html": "/goblin/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/goblin/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.806cac0a.chunk.js.LICENSE.txt": "/goblin/static/js/2.806cac0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ef2401.js",
+    "static/js/2.806cac0a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.86b2bc4f.chunk.js"
+  ]
+}
